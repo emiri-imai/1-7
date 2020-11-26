@@ -1,0 +1,53 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.main-visual{
+  width: 100%;
+  height: 400px;
+  margin: 0 auto;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+.main-visual-heading{
+  margin: 20px 20px;
+  color: gray;
+  font-size: 30px;
+}
+main{
+  margin: 50 auto;
+  width: 840px;
+  padding-top: 50px;
+
+}
+.webcamp{
+  padding-bottom: 30px;
+  border-bottom: 1px solid #f7f7f7
+}
+.main-visual-text{
+  font-size: 10px;
+}
+a{
+  padding: 20px;
+  font-size: 7px;
+}
+.webcamppro{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #f7f7f7
+  }
+.webcampwomam{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #f7f7f7
+  }
+.webcampcareer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #f7f7f7
+
+  }
